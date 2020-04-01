@@ -1,2 +1,3 @@
 /index.html
-**settings.php
+#ignore 
+/aus-gov/web/sites/default/settings.php
